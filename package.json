@@ -3,8 +3,5 @@
     "author": "MikeTatsuo",
     "scripts": {
         "start": "node app.js"
-    },
-    "dependencies": {
-        "nightmare": "^3.0.1"
     }
 }
