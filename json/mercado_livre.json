@@ -4,6 +4,9 @@
     "type_key": "chapéu preto",
     "click": ".nav-search-btn",
     "wait": "#searchResults .item__info-link",
-    "selector": ".item__info-link",
-    "next": ".andes-pagination__button--next>a.andes-pagination__link"
+    "urlSelector": ".item__info-link",
+    "titleSelector": ".main-title",
+    "next": ".andes-pagination__button--next",
+    "next_click": ".andes-pagination__button--next a",
+    "next_end": ".andes-pagination__button--next.andes-pagination__button--disabled"
 }
