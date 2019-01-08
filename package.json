@@ -3,5 +3,13 @@
     "author": "MikeTatsuo",
     "scripts": {
         "start": "node app.js"
-    }
+    },
+    "dependencies": {
+        "nightmare": "^3.0.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/MikeTatsuo/night-crawler.git"
+    },
+    "license": "Insert License Here"
 }

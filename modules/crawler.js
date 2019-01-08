@@ -1,6 +1,6 @@
 const Nightmare = require('nightmare')
 const nightmare = Nightmare({
-    show: true
+    show: false
 })
 
 module.exports = class Crawler {
